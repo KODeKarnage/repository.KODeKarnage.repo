@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.KODeKarnage.addons" name="KODeKarnages Add-on Repo" version="1.0" provider-name="KODeKarnage">
   <extension point="xbmc.addon.repository" name="KODeKarnages Add-on Repo">
-    <info compressed="false">https://raw.github.com/xbmc-catchuptv-au/repo/master/addons.xml</info>
-    <checksum>https://raw.github.com/xbmc-catchuptv-au/repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://github.com/xbmc-catchuptv-au/repo/raw/master/</datadir>
+    <info compressed="false">https://raw.github.com/KODeKarnage/repository.KODeKarnage/master/addons.xml</info>
+    <checksum>https://raw.github.com/KODeKarnage/repository.KODeKarnage/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://github.com/KODeKarnage/repository.KODeKarnage/raw/master/</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Install KODeKarnage's Add-ons</summary>
